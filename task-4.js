@@ -17,6 +17,6 @@ else if( friendMarks>=40){
 else if(friendMarks<40){
     console.log("block your friend")
 }
-if(iGETMarks<80){
+else{
     console.log("go to home and sleep and act sad")
 }

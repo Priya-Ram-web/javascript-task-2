@@ -1,4 +1,5 @@
 const studentGrade = 150;
+
 if(studentGrade<90-100){
     console.log("A")
 }

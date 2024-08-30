@@ -1,8 +1,8 @@
-/**
- * const burgerPrice = 600;
-* const cookPrice = burgerPrice > 500 ? "coke free!" : "coke price: 30tk";
- * console.log(cookPrice)
- */
+
+ //const burgerPrice = 600;
+ //const cookPrice = burgerPrice > 500 ? "coke free!" : "coke price: 30tk";
+  //console.log(cookPrice)
+
 
 
 const burgerPrice = 600;
